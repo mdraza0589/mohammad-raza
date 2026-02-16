@@ -288,7 +288,7 @@
       "type": "product-grid",
       "name": "Custom Product Grid",
       "settings": {
-        "product_1": "",
+        "product_1": "led-high-tops",
         "product_2": "",
         "product_3": "",
         "product_4": "",
